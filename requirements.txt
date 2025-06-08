@@ -5,3 +5,5 @@ plotly
 jupyter 
 ipykernel 
 pytest
+ta-lib
+pynance
